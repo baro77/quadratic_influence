@@ -11,7 +11,7 @@ Support repository for article "TITLE ARTICLE" hosted on Medium: LINK_MEDIUM
   
   It also hosts a second function defining _p(y,n,i)_ in a more Octave-ish way, thanks to use of matrix algebra instead of almost all ```for``` cycles.
   
-  More details in its own [README.md](https://github.com/baro77/quadratic_influence/blob/master/BALLOT_PRECOMPUTED_PYs/README.md) file
+  More details in folder's [README.md](https://github.com/baro77/quadratic_influence/blob/master/BALLOT_PRECOMPUTED_PYs/README.md) file
 
 ### NOTE
 Even if function outputs represent probabilities (so values bounded in [0,1]), intermediate stages of implemented formulas can lead to overflow of double floating point numbers used by Octave, e.g. resulting in ∞⋅0 and ```NaN```. The above lattice domain is almost the biggest currently allowed, for bigger ones code refactoring is an actual need.
