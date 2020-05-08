@@ -10,3 +10,6 @@ Support repository for article "TITLE ARTICLE" hosted on Medium: LINK_MEDIUM
   * _i ∈ (0, 1, 2, ..., 501)_
   
   It also hosts a second function defining _p(y,n,i)_ in a more Octave-ish way, thanks to use of matrix algebra instead of almost all ```for``` cycles.
+
+NOTE
+Even if function outputs represent probabilities (so values bounded in [0,1]), intermediate stages of implemented formulas can lead to overflow of double floating point numbers used by Octave, resulting in ∞⋅0 and ```NaN```. The above lattice domain is almost the biggest currently allowed, for bigger ones code refactoring is an actual need.
