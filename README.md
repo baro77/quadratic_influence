@@ -9,4 +9,4 @@ Support repository for article "TITLE ARTICLE" hosted on Medium: LINK_MEDIUM
   * _n ∈ (1, 2, 3, ..., 1000)_
   * _i ∈ (0, 1, 2, ..., 501)_
   
-  It also hosts a second function defining _p(y,n,i)_ in a more Octave-ish way, thanks to use of matrix algebra to substitute for almost all ```for``` cycles.
+  It also hosts a second function defining _p(y,n,i)_ in a more Octave-ish way, thanks to use of matrix algebra instead of almost all ```for``` cycles.
