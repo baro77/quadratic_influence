@@ -2,7 +2,7 @@
 #
 # A second function defining p(y,n,i) in a more Octave-ish way, thanks to use of matrix algebra instead of almost all "for" cycles
 #
-# (It needs a meshgrid-based input -see following code- and returns a 3D array - suitable for mesh plotting function once one dimension is locked)
+# (It needs a meshgrid-based input -see following code- and returns a 3D array -suitable for mesh plotting function once one dimension is locked)
 #
 function result=PY2(yyy,nnn,iii)
     max_iii = floor(nnn/2)+1;
