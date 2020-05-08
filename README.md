@@ -8,3 +8,4 @@ Support repository for article "TITLE ARTICLE" hosted on Medium: LINK_MEDIUM
   * _y ∈ (0, 0.01, 0.02, ..., 1)_
   * _n ∈ (1, 2, 3, ..., 1000)_
   * _i ∈ (0, 1, 2, ..., 501)_
+It also hosts a second function defining _p(y,n,i)_, more Octave-ish thanks to use of matrix algebra to substitute for almost all "for" cycles.
