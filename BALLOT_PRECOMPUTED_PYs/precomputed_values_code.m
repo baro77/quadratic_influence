@@ -43,7 +43,7 @@ endfor
 #
 # Example of code to reconstruct a 1000x101x205 matrix (the result of PY2(...)) from 101 files created by previous code
 #
-# (NOTE: instead of downloading files manually, you could use "urlread" and "urlwrite" Octave functions on GitHub raw file link)
+# (NOTE: instead of downloading files manually, you could use "urlread" and "urlwrite" Octave functions on GitHub raw files links)
 #
 for c= 1:101
 cc=c-1;
