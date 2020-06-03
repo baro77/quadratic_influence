@@ -25,7 +25,7 @@ endfunction
 #
 # Code used to generate the files contained in BALLOT_PRECOMPUTED_PYs/ folder
 #
-# NOTE: values array size is 1000x101x502 (and not 101x1000x502 as expected, given p(y,n,i) arguments order) due to meshgrid behavior (please check meshgrid VS ndgrid in Octave's help)
+# (NOTE: values array size is 1000x101x502 (and not 101x1000x502 as expected, given p(y,n,i) arguments order) due to meshgrid behavior (please check meshgrid VS ndgrid in Octave's help))
 #
 y=linspace(0,1,101);
 n=linspace(1,1000,1000);
