@@ -6,7 +6,7 @@ This is a quite big archive of precomputed values of _p(y,n,i)_ for the 101 x 10
   * _i ∈ (0, 1, 2, ..., 501)_
  
 It's total size is almost 1GB, but each chunk isn't more than 10MB to be easily downloadable.
-Each file contains probabilities _p(y,n,i)_ for a given value of _y_, e.g. ```PY_1000_502-py020.octave_text``` contains probabilities for _i=20%_.
+Each file contains probabilities _p(y,n,i)_ for a given value of _y_, e.g. ```PY_1000_502-py020.octave_text``` contains probabilities for _y=20%_.
 
 [precomputed_values_code.m](https://github.com/baro77/quadratic_influence/blob/master/BALLOT_PRECOMPUTED_PYs/precomputed_values_code.m) contains the function used to generate this data (a probability function refactored in a more Octave-ish way), support code to split its result in the 101 files and to reassemble it in one single Octave 3D array once the files has been downloaded on your computer.
 
