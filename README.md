@@ -1,6 +1,6 @@
 # Quadratic Influence misc stuff
 
-Support repository for article ["Quadratic Payments with constrained probabilities" hosted on Medium]()
+Support repository for article ["Quadratic Payments with constrained probabilities" hosted on Medium](https://medium.com/@baro77/quadratic-payments-with-constrained-probabilities-b40facba716)
 
 * [referendum_code.m](https://github.com/baro77/quadratic_influence/blob/master/referendum_code.m) contains unleashed Octave code defining _p(y,n,i)_ and _∆p(y,n,i)_ and plotting graphs of the referendum model;
 
