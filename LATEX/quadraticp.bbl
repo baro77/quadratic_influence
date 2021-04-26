@@ -1,0 +1,187 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{Github}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4f26b061efb5960bd582a27b56c95f0d}{%
+           family={{Andrea Barontini}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f26b061efb5960bd582a27b56c95f0d}
+      \strng{fullhash}{4f26b061efb5960bd582a27b56c95f0d}
+      \strng{bibnamehash}{4f26b061efb5960bd582a27b56c95f0d}
+      \strng{authorbibnamehash}{4f26b061efb5960bd582a27b56c95f0d}
+      \strng{authornamehash}{4f26b061efb5960bd582a27b56c95f0d}
+      \strng{authorfullhash}{4f26b061efb5960bd582a27b56c95f0d}
+      \field{extraname}{1}
+      \field{labelalpha}{And20}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Quadratic Influence misc stuff}}
+      \field{urlday}{22}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/baro77/quadratic_influence
+      \endverb
+      \verb{url}
+      \verb https://github.com/baro77/quadratic_influence
+      \endverb
+    \endentry
+    \entry{Medium}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4f26b061efb5960bd582a27b56c95f0d}{%
+           family={{Andrea Barontini}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f26b061efb5960bd582a27b56c95f0d}
+      \strng{fullhash}{4f26b061efb5960bd582a27b56c95f0d}
+      \strng{bibnamehash}{4f26b061efb5960bd582a27b56c95f0d}
+      \strng{authorbibnamehash}{4f26b061efb5960bd582a27b56c95f0d}
+      \strng{authornamehash}{4f26b061efb5960bd582a27b56c95f0d}
+      \strng{authorfullhash}{4f26b061efb5960bd582a27b56c95f0d}
+      \field{extraname}{2}
+      \field{labelalpha}{And20}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Quadratic payments with constrained probabilities}}
+      \field{urlday}{22}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/@baro77/quadratic-payments-with-constrained-probabilities-b40facba716?sk=60199e8bea21a8c0e6820791435aa6f0
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@baro77/quadratic-payments-with-constrained-probabilities-b40facba716?sk=60199e8bea21a8c0e6820791435aa6f0
+      \endverb
+    \endentry
+    \entry{Venice}{online}{}
+      \name{author}{1}{}{%
+        {{hash=26b6b3033baa8962d5f46203ed86a146}{%
+           family={{Raffaele Pontremoli}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=594d1e98fe2c69232aeb2888ab66bf86}{%
+           family={{Le Monde Illustré n.499}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{26b6b3033baa8962d5f46203ed86a146}
+      \strng{fullhash}{26b6b3033baa8962d5f46203ed86a146}
+      \strng{bibnamehash}{26b6b3033baa8962d5f46203ed86a146}
+      \strng{authorbibnamehash}{26b6b3033baa8962d5f46203ed86a146}
+      \strng{authornamehash}{26b6b3033baa8962d5f46203ed86a146}
+      \strng{authorfullhash}{26b6b3033baa8962d5f46203ed86a146}
+      \strng{editorbibnamehash}{594d1e98fe2c69232aeb2888ab66bf86}
+      \strng{editornamehash}{594d1e98fe2c69232aeb2888ab66bf86}
+      \strng{editorfullhash}{594d1e98fe2c69232aeb2888ab66bf86}
+      \field{labelalpha}{Raf66}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Les habitants du quartier Saint-Marc, $4^{re}$ section, se rendent à l'Athénée pour voter le plébiscite.}}
+      \field{urlday}{22}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{year}{1866}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://it.wikipedia.org/wiki/Raffaele_Pontremoli#/media/File:Le_Monde_Illustré_1866_-_Votazioni_a_Venezia.jpg
+      \endverb
+      \verb{url}
+      \verb https://it.wikipedia.org/wiki/Raffaele_Pontremoli#/media/File:Le_Monde_Illustr%C3%A9_1866_-_Votazioni_a_Venezia.jpg
+      \endverb
+    \endentry
+    \entry{Vitalik}{online}{}
+      \name{author}{1}{}{%
+        {{hash=271bf283595a8197120c9db511ea6192}{%
+           family={{Vitalik Buterin}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{271bf283595a8197120c9db511ea6192}
+      \strng{fullhash}{271bf283595a8197120c9db511ea6192}
+      \strng{bibnamehash}{271bf283595a8197120c9db511ea6192}
+      \strng{authorbibnamehash}{271bf283595a8197120c9db511ea6192}
+      \strng{authornamehash}{271bf283595a8197120c9db511ea6192}
+      \strng{authorfullhash}{271bf283595a8197120c9db511ea6192}
+      \field{labelalpha}{Vit19}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Quadratic Payments: A Primer}}
+      \field{urlday}{22}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://vitalik.ca/general/2019/12/07/quadratic.html
+      \endverb
+      \verb{url}
+      \verb https://vitalik.ca/general/2019/12/07/quadratic.html
+      \endverb
+    \endentry
+    \entry{BigO}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{labelalpha}{Wik01}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Big O notation}}
+      \field{urlday}{22}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Big_O_notation#Formal_definition
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Big_O_notation#Formal_definition
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
