@@ -11,7 +11,7 @@
 >
 > #### Version history
 >
-> This article is the rewrite -to brush up my \LaTeX \ and to use a typesetting environment more suitable for this kind of content- of the one I published on Medium on June 10th, 2020.
+> This article is the rewrite -to brush up my LaTeX and to use a typesetting environment more suitable for this kind of content- of the one I published on Medium on June 10th, 2020.
 >
 > Given some new typographic peculiarities, the contents are substantially unchanged apart from a couple of minor additions and some typos corrections:
 >
